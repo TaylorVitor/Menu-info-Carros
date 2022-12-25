@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\bin\Debug\Menu de escolha.exe.config
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\bin\Debug\Menu de escolha.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\bin\Debug\Menu de escolha.pdb
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\obj\Debug\Menu de escolha.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\obj\Debug\Menu de escolha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\obj\Debug\Menu de escolha.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu de escolha\Menu de escolha\obj\Debug\Menu de escolha.pdb
